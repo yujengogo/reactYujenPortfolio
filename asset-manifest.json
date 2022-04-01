@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/reactYujenPortfolio/static/css/main.9a00b587.css",
+    "main.js": "/reactYujenPortfolio/static/js/main.8bb9f105.js",
+    "static/js/787.b20669e5.chunk.js": "/reactYujenPortfolio/static/js/787.b20669e5.chunk.js",
+    "static/media/redesignB.png": "/reactYujenPortfolio/static/media/redesignB.10b0c176c07de7f1e47b.png",
+    "static/media/screenshot1.png": "/reactYujenPortfolio/static/media/screenshot1.507dacd791d62f89bc75.png",
+    "static/media/selfPhoto.jpg": "/reactYujenPortfolio/static/media/selfPhoto.5f1ed27f2221bb148a11.jpg",
+    "static/media/dayschedule.png": "/reactYujenPortfolio/static/media/dayschedule.8446f7b242d4a130471d.png",
+    "static/media/Password.png": "/reactYujenPortfolio/static/media/Password.69c1e21cb3f68ab82767.png",
+    "index.html": "/reactYujenPortfolio/index.html",
+    "main.9a00b587.css.map": "/reactYujenPortfolio/static/css/main.9a00b587.css.map",
+    "main.8bb9f105.js.map": "/reactYujenPortfolio/static/js/main.8bb9f105.js.map",
+    "787.b20669e5.chunk.js.map": "/reactYujenPortfolio/static/js/787.b20669e5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9a00b587.css",
+    "static/js/main.8bb9f105.js"
+  ]
+}
